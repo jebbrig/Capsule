@@ -12,4 +12,6 @@ capsuleMain::capsuleAvailableList();
 //Initialization of Available Pages
 pagesMain::pagesAvailableList();
 
+echo "test test";
+
 ?>
